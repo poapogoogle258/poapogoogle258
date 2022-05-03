@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **poapogoogle258/poapogoogle258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,4 +58,4 @@ Physical concepts are free creations of the human mind, and are not, however it 
 
 "I am happy because I want nothing from anyone. I do not care about money. Decorations, titles or distinctions mean nothing to me. I do not crave praise. I claim credit for nothing. A happy man is too satisfied with the present to dwell too much on the future."
 
-- Albert Einstein
+### Albert Einstein
